@@ -2,7 +2,6 @@
  (name ppx_deriving_router_dream)
  (public_name ppx_deriving_router.dream)
  (virtual_deps dream)
- (optional)
  (libraries ppx_deriving_router)
  (ppx_runtime_libraries ppx_deriving_router.dream_runtime)
  (kind ppx_deriver))
